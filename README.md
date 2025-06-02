@@ -14,17 +14,6 @@ The goal of this project is to perform EDA using Python (Pandas, Matplotlib, Sea
 
 ---
 
-## Project Structure
-
-titanic-eda-project/
-│
-├── cleaned_train.csv # Cleaned dataset used for EDA
-├── Titanic_EDA_Report.pdf # Final PDF report of findings
-├── Titanic_EDA_Notebook.ipynb # Jupyter Notebook with code and visualizations
-└── README.md # Project overview
-
----
-
 ## Tools & Libraries
 
 - Python 3.x
